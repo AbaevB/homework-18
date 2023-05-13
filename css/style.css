@@ -238,3 +238,36 @@ h6 {
   line-height: 120%;
 }
 
+/*-----------------TEACHERS-----------------*/
+
+.section-teachers {
+  padding-top: 76px;
+  padding-bottom: 72px;
+  color: var(--color-white);
+  background-color: var(--color-second);
+}
+
+.section-teachers__title  {
+  margin-bottom: 22px;
+}
+
+.teacher-card__top  {
+  margin-bottom: 25px;
+  border-radius: 20px 20px 0px 0px;
+  overflow: hidden;
+}
+
+.teacher-card__content  {
+  padding-left: 3px;
+}
+
+.teacher-card__title  {
+  margin-bottom: 9px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+
+
+
