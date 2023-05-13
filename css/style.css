@@ -126,12 +126,12 @@ h6 {
 }
 
 .section-hero__content {
-  padding-top: 130px;
+  padding-top: 114px;
 }
 
 .main-title {
   margin: 0;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   font-weight: 700;
   font-size: 60px;
   line-height: 100%;
@@ -141,9 +141,9 @@ h6 {
 .section-hero__text {
   width: 444px;
   margin: 0;
-  margin-bottom: 70px;
+  margin-bottom: 61px;
   font-size: 18px;
-  line-height: 170%;
+  line-height: 28px;
 }
 
 .section-hero__link {
